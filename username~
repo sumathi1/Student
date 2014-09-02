@@ -1,5 +1,6 @@
 <html>
 <body>
-<input type="text" name="text" placeholder="username here"/>
+<label>UserName</label>
+<input placeholder="username here"/>
 </body>
 </html>
