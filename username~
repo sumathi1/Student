@@ -1,6 +1,0 @@
-<html>
-<body>
-<label>UserName</label>
-<input type="text" placeholder="username here"/>
-</body>
-</html>
